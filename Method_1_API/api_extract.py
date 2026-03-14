@@ -10,7 +10,7 @@ from datetime import datetime
 TOP_STORIES_API = "https://hacker-news.firebaseio.com/v0/topstories.json"
 ITEM_API = "https://hacker-news.firebaseio.com/v0/item/{}.json"
 
-TOP_N = 10
+TOP_N = 50
 SAVE_FOLDER = "API_SAVED_FILES"
 
 
