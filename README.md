@@ -116,8 +116,9 @@ Open **Command Prompt (CMD)** and navigate to the project folder.
 
 Example:
 
+```bash
 cd Interview
-
+```
 ---
 
 ## Step 2: Create Python Virtual Environment
@@ -136,7 +137,9 @@ After this step, the folders **Scripts, Lib, and pyvenv.cfg** will be created.
 
 Activate the virtual environment using:
 
+```bash
 Scripts\activate
+```
 
 After activation, the command prompt should show the environment name.
 
@@ -146,7 +149,9 @@ After activation, the command prompt should show the environment name.
 
 Install the required Python packages:
 
+```bash
 pip install -r requirements.txt
+```
 
 The main libraries used are:
 
@@ -161,11 +166,15 @@ openpyxl
 
 Navigate to the Method 1 folder in cmd:
 
+```bash
 cd Method_1_API
+```
 
 Run the script:
 
+```bash
 python api_extract.py
+```
 
 What this script does:
 
@@ -189,11 +198,15 @@ top_stories_api_20260315_104500.xlsx
 
 Navigate to the Selenium folder in cmd:
 
+```bash
 cd Method_2_Selenium
+```
 
 Run the script:
 
+```bash
 python selenium_extract.py
+```
 
 What this script does:
 
