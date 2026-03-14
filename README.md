@@ -33,7 +33,7 @@ https://hacker-news.firebaseio.com/v0/topstories.json → array of IDs
 
 Story details endpoint
 
-https://hacker-news.firebaseio.com/v0/item/<id>.json → includes title, by, score, url
+https://hacker-news.firebaseio.com/v0/item/id.json → includes title, by, score, url
 
 ---
 
