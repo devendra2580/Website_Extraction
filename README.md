@@ -124,7 +124,9 @@ cd Interview
 
 Run the following command to create the virtual environment inside the Interview folder.
 
+```bash
 python -m venv .
+```
 
 After this step, the folders **Scripts, Lib, and pyvenv.cfg** will be created.
 
