@@ -1,0 +1,8 @@
+Lib/
+Scripts/
+pyvenv.cfg
+CACHEDIR.TAG
+Method_1.docx
+Method_2.docx
+__pycache__/
+*.pyc
